@@ -147,7 +147,6 @@ Scaling up Generative AI models and LLMs has led to significant improvements in 
 
 ![WhatsApp Image 2026-02-08 at 5 01 07 PM](https://github.com/user-attachments/assets/f629f48e-0436-480c-a5e8-01b7b7027201)
 
-
 Benefits:
 - Improved Performance:
    Larger models tend to perform better on a wide range of tasks.
@@ -165,8 +164,6 @@ Definition:
 A Large Language Model (LLM) is a type of AI model designed to understand and generate human-like text. LLMs are trained on vast amounts of text data and can perform a wide range of natural language processing tasks.
 
 ![WhatsApp Image 2026-02-08 at 5 04 31 PM](https://github.com/user-attachments/assets/e5e4e00f-8b36-4b8c-8951-986cb616ab01)
-
-
 Building an LLM:
 1. Data Collection: Gather a large corpus of text data.
 2. Preprocessing: Clean and tokenize the data.
@@ -180,7 +177,6 @@ Generative AI and LLMs have the potential to revolutionize various industries, f
 References
 - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.
 - Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. Advances in neural information processing systems, 33, 1877-1901.
-
 
 # Result:
 
